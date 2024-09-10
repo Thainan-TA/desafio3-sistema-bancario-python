@@ -51,7 +51,7 @@ Este projeto implementa um sistema bancário simples em Python, permitindo a cri
 1. Certifique-se de ter o Python instalado em seu sistema.
 2. Clone este repositório para o seu ambiente local.
 3. Navegue até o diretório do projeto.
-4. Execute o script main.py para iniciar o sistema bancário.
+4. Execute o script desafio_v3.py para iniciar o sistema bancário.
 
 ### Conclusões
 Este modelo de sistema bancário ainda não está concluído, porém o objetivo futuramente é validar todos os pontos de segurança possíveis.
